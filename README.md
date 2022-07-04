@@ -4,7 +4,7 @@
 
 Install the dependencies with ```npm install```
 
-Update the deviceName and platFormVersion in config/android.info.js and config/ios.info.js respectively.
+Update the ```deviceName``` and ```platFormVersion``` in ```config/android.info.js``` and ```config/ios.info.js``` respectively.
 
 ## iOS Status
 Unable to create the iOS tests currently as my computer is a Windows 11 machine.
